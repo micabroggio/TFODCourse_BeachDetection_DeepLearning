@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>sand_beach (23).jpg</filename>
+	<path>C:\Users\micao\OneDrive\dev_git\beach_detection\tensorflow\workspace\images\test\sand_beach (23).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>linhaEspraiamento</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>219</xmin>
+			<ymin>367</ymin>
+			<xmax>397</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>linhaEspraiamento</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>195</xmin>
+			<ymin>328</ymin>
+			<xmax>316</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
